@@ -1,4 +1,4 @@
-# Configuring a Custom Domain with Amazon Cognito
+# POC for Amazon Cognito
 
 ## Project setup
 
