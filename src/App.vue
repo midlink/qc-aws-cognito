@@ -2,8 +2,7 @@
   <div id="app">
     <b-container>
       <b-jumbotron>
-        <h1 class="display-5">Configuring a Custom Domain with Amazon Cognito</h1>
-        <h4>Hands-on Lab</h4>
+        <h1 class="display-5">POC for Amazon Cognito</h1>
       </b-jumbotron>
       <router-view />
     </b-container>
